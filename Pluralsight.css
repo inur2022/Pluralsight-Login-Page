@@ -103,6 +103,15 @@ flex: 1;
 
 
 
+#signin .or {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.2rem;
+    align-items:center;
+    
+}
+
+
 
 /* Button */
 .primary-btn {
