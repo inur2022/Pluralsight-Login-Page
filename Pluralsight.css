@@ -39,9 +39,22 @@ flex: 1;
 /* Sign in */
 #signin {
     display: flex;
-    flex-direction column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 80%;
     padding-bottom: 1rem;
+}
+
+#signin form {
+    width: 80%;
+    padding-bottom: 3rem;
+}
+
+.logo {
+    margin-bottom: 8vh;
+}
+
+.logo img {
+    width: 300px;
 }
